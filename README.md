@@ -1,8 +1,9 @@
 # Data-Scientist-Career-Path-Codecademy
 
 **My projects:**
-**1. U.S. Medical Insurance Costs:**
-For this project, I investigated a medical insurance costs dataset in a .csv file using the Python skills. 
+
+1. **U.S. Medical Insurance Costs:**
+
 
 
 ## 1. U.S. Medical Insurance Costs:
