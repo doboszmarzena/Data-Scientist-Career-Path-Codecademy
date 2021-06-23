@@ -2,7 +2,7 @@
 
 **My projects:**
 
-1. **U.S. Medical Insurance Costs:**
+1. **U.S. Medical Insurance Costs**
 
 
 
